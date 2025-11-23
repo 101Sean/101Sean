@@ -1,6 +1,7 @@
-## Hi there 👋
+[![블로그정보](https://blogwidget.com/api/{$PLATFORM}/blog?name={$技術之林})]({$https://kingsean.tistory.com/})
 
 <!--
+
 **101Sean/101Sean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
