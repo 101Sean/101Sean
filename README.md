@@ -1,4 +1,4 @@
-[![블로그정보](https://blogwidget.com/api/{$PLATFORM}/blog?name={$技術之林})]({$https://kingsean.tistory.com/})
+https://kingsean.tistory.com/
 
 <!--
 
