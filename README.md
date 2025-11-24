@@ -1,15 +1,4 @@
-<a href="https://kingsean.tistory.com/" 
-   style="display: inline-block; 
-          padding: 10px 20px; 
-          margin: 10px 0;
-          background-color: #007bff; 
-          color: white;
-          text-align: center; 
-          text-decoration: none; 
-          border-radius: 6px; 
-          font-weight: bold;">
-    🚀 Dev Blog
-</a>
+**[✨ DEV BLOG ✨](https://kingsean.tistory.com)**
 
 <!--
 
