@@ -1,4 +1,4 @@
-<a href="[당신의_링크_URL](https://kingsean.tistory.com/)" 
+<a href="https://kingsean.tistory.com/" 
    style="display: inline-block; 
           padding: 10px 20px; 
           margin: 10px 0;
